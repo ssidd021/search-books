@@ -1,0 +1,16 @@
+
+body { 
+    background-image: url("../img/books.jpg"); 
+    height: 100%; 
+    background-color: rgb(190,237,219);
+}
+
+
+#search { 
+    width: 100%; 
+}
+
+.book-list{ 
+    margin-top: 50px; 
+    visibility: hidden; 
+}
